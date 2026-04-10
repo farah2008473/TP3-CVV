@@ -1,0 +1,39 @@
+<!DOCTYPE Html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"href="style.css">
+</head>
+<body>
+  <div class="container">
+    <section>  
+     <h1>CV du travaile</h1>
+     <img src=photo.jpg class="profile">
+    <h2>les information personnelles</h2>
+    <p><strong>Nom:</strong>Oudhimin</p>
+    <p><strong>prenom:</strong>Farah</p>
+    <p><strong>Email:</strong>farahoud840@gmail.com</p>
+    <p><strong>Téléphon:</strong>07.14.51.01.13</p>
+    <h2>formation</h2>
+    <ul>
+        <li>licence en Informatique</li>
+        <li>Baccalauréat Sciences</li>
+        <li>Niveau B2 en français</li>
+        <li>Niveau B2 en englais</li>
+        <li>certifecat de metrisationen python et C</li>
+    </ul>
+    <h2>experiences</h2>
+    <ul>
+        <li>stage en entreprise du l'informatique</li>
+        <li>projet universitaire</li>
+     <h2>compétances</h2>
+     </ul>
+        <li> HTML / css </li>
+        <li>python</li>
+        <li>Exel</li>
+        <li>language c</li>
+     </u1>
+</div>
+</body>
+</html>
